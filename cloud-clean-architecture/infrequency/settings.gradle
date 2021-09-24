@@ -1,0 +1,5 @@
+rootProject.name = 'cca-infrequency'
+include 'service'
+include 'domain'
+include 'spring-boot'
+include 'artifact-repo'
